@@ -1,0 +1,16 @@
+{
+    "name": "aji/pbwl_projectUTS",
+    "description": "project UTS matakuliah pemrograman web lanjutan 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ajiwardana"
+        }
+    ],
+    "require": {}
+}
